@@ -12,6 +12,6 @@ La page globale de WERAW : (renseigner URL)
 
 (Mettre les URL des personnages)
 
-## !DOCTYPE LEAGUE
+## !DOCTYPE LEAGUE
 
 (Mettre les URL des personnages)
