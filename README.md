@@ -5,7 +5,7 @@ Infos et liens concernant le projet WERAW
 La page globale de WERAW : (renseigner URL)
 
 ## APPENGERS
-
+http://hero.loannjuillerat.ch/
 (Mettre les URL des personnages)
 
 ## LESS IS MORE
