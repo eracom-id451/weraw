@@ -10,9 +10,10 @@ http://hero.loannjuillerat.ch/
 
 ## LESS IS MORE
 
+http://super.mariusparisod.ch
 (Mettre les URL des personnages)
 
 ## !DOCTYPE LEAGUE
 
-(Mettre les URL des personnages)
 http://superheros.diano-dimatteo.ch
+(Mettre les URL des personnages)
