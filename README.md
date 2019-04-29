@@ -2,7 +2,7 @@
 
 Infos et liens concernant le projet WERAW
 
-La page globale de WERAW : (renseigner URL)
+La page globale de WERAW : https://eracom-id451.github.io/landing-page/
 
 ## APPENGERS
 http://hero.loannjuillerat.ch/
