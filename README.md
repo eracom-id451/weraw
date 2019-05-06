@@ -5,15 +5,21 @@ Infos et liens concernant le projet WERAW
 La page globale de WERAW : https://eracom-id451.github.io/landing-page/
 
 ## APPENGERS
-http://hero.loannjuillerat.ch/
-(Mettre les URL des personnages)
 
-## LESS IS MORE
+- CaptainMalware - ???
+- Hackerman - ???
+- Afterburner - http://hero.loannjuillerat.ch/
+- Troisdé - http://super.mariusparisod.ch
 
-http://super.mariusparisod.ch
-(Mettre les URL des personnages)
+## HYBRID
+
+- Wand - hero.eduardo-espinoza.ch
+- Pathfinder - superhero.tanguybula.co
+- Eraser - eraser.tenzinlama.ch
 
 ## !DOCTYPE LEAGUE
 
-http://superheros.diano-dimatteo.ch
-(Mettre les URL des personnages)
+- Zindex - http://superheros.diano-dimatteo.ch
+- Bordercollapse - weraw.nathantosoni.ch
+- Opacity - superheros.tenzinlama.ch
+- Dropshadow - weraw.jonas-paul.ch
